@@ -1,0 +1,84 @@
+button
+{
+    background-color: rgb(117, 146, 177);
+    border-radius:30px;
+    height:60px;
+    border-style:groove;
+    border-width:10px;
+    border-color: lightskyblue;
+    font-size:30px;
+    font-style:italic;
+    font-family: cursive;
+}
+
+#answer
+{
+    font-family: cursive;
+}
+
+body{
+    text-align: center;
+}
+
+#output
+{
+    background-color:white;
+    border-radius:10px;
+    border-top: 10px solid #AA4465;
+    padding:10px;
+    float:none;
+    text-align: left;
+}
+
+
+#title
+{
+    font-size:30px;
+    font-style: oblique;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body
+{
+	background-color:lavender;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: rgb(250, 218, 174);
+		padding: 10px;
+		float: none;
+		border-radius: 50px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+    padding-top:50px;
+
+}
+
+.player_title
+{
+    font-style: italic;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
